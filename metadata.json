@@ -1,0 +1,6 @@
+{
+  "name": "AgriGuard Tamil Nadu",
+  "description": "Tamil Nadu Digital Uzhavar Unified Command Hub - Mandi prices, Slot booking & QR Pass, AI crop doctor, voice assistant, and weather advisory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
